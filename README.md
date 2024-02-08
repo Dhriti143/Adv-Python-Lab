@@ -48,4 +48,12 @@ To use the script, follow these steps:
 3. Check the generated "summary.txt" file for the results.
 
 ## Summary.txt Example
-
+    ```bash
+    Total reviews: 25
+    Valid_reviews reviews: 18
+    Invalid_reviews reviews: 7
+    Top 3 rated Product:
+    Product ID:acces23910, Rating:4.53
+    Product ID:shoes51212, Rating:4.26
+    Product ID:dress23109, Rating:4.22
+    ```
