@@ -37,6 +37,7 @@ To use the script, follow these steps:
     ```bash
     git clone https://github.com/yourusername/AdvPythonLab.git
     cd AdvPythonLab
+    cd Lab1
     ```
 
 2. Execute the Python script with the desired directory path:
