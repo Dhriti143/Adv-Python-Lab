@@ -1,0 +1,5 @@
+C00001 shoes51212 2004-04-17 5 <amazing>
+C00002 dress23109 2003-04-24 - <nice>
+C00003 earrings99 2005-05-08 1 <poor>
+C00004 shoes51212 2002-08-09 3 <average>
+C00005 lotion4590 2004-15-22 4 <>
