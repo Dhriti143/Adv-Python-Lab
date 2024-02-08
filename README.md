@@ -57,3 +57,10 @@ To use the script, follow these steps:
     Product ID:acces23910, Rating:4.53
     Product ID:shoes51212, Rating:4.26
     Product ID:dress23109, Rating:4.22
+
+## Notes
+
+- Ensure Python 3.x is installed.
+- Make sure to replace `/path/to/your/directory` with the actual path to your data directory.
+
+For detailed comments explaining each step of the implementation, refer to the code within `analyze_reviews.py` in Lab 1.
