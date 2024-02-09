@@ -66,11 +66,15 @@ This Python program is designed for image data processing, providing a user-frie
    cd Lab3
 
 2. **Install Dependencies:**
-    ```bash
-    pip install Pillow
-    ```
-3. **Run the Program:**
+   To run the Image Data Processing Tool, you need to install the required dependencies, including Pillow for image processing, Matplotlib for plotting histograms,    and NumPy for array operations.
+
+   ```bash
+   pip install Pillow matplotlib numpy
+   ```
+4. **Run the Program:**
+   ```bash
     python image_processing_tool.py
+   ```
 
 ## Follow On-screen Prompts:
 The program will guide users through loading, displaying, and manipulating images.
