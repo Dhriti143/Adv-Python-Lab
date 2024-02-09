@@ -19,8 +19,8 @@ This Python program implements a railway ticket reservation system for a busy ra
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/.git
-   cd RailwayReservationSystem
+   git clone https://github.com/yourusername/Adv-Python-Lab.git
+   cd Adv-Python-Lab
    cd Lab2
   
 2. **Run the Program:**
