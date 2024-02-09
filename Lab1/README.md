@@ -32,8 +32,8 @@ To use the script, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/AdvPythonLab.git
-    cd AdvPythonLab
+    git clone https://github.com/yourusername/Adv-Python-Lab.git
+    cd Adv-Python-Lab
     cd Lab1
     ```
 
